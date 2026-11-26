@@ -7,4 +7,5 @@ dataan.pages
 SBA_clean.csv
 .DS_Store
 data
-.build 
+.build
+SBA_clean_knime.csv
